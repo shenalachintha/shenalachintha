@@ -1,3 +1,14 @@
+<!-- ===================== CODING ANIMATION ===================== -->
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding Animation" 
+    width="420"
+  />
+</div>
+
+<br/>
+
 <!-- ===================== HERO ===================== -->
 <div align="center" style="padding: 32px; border-radius: 14px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364); color: white;">
 
@@ -37,7 +48,7 @@
 
 ---
 
-<!-- ===================== TECH STACK LOGOS ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 <h3>🧰 Tech Stack</h3>
 
 <div align="center" style="padding: 20px; background-color: #f4f6f8; border-radius: 12px;">
@@ -74,9 +85,7 @@
 
 <div style="padding: 20px; background-color: #f4f6f8; border-radius: 10px; border-left: 4px solid #38BDF8;">
 
-<p>
-I am actively seeking:
-</p>
+<p>I am actively seeking:</p>
 
 <ul>
   <li>🎓 Software Engineering Internships</li>
@@ -96,7 +105,7 @@ If you are hiring interns or junior developers, I would love to connect.
 <!-- ===================== CONNECT ===================== -->
 <h3>🤝 Connect with Me</h3>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/shenalachintha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -111,3 +120,4 @@ If you are hiring interns or junior developers, I would love to connect.
 <div align="center" style="margin-top: 30px; opacity: 0.7;">
   <i>Open to learning • Ready to work • Actively seeking internships 🚀</i>
 </div>
+
