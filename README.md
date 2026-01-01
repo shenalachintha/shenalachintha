@@ -1,26 +1,35 @@
+
+
 <!-- ===================== CODING ANIMATION ===================== -->
 <div align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="Coding Animation" 
-    width="420"
+    width="240"
   />
 </div>
 
 <br/>
 
 <!-- ===================== HERO ===================== -->
-<div align="center" style="padding: 32px; border-radius: 14px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364); color: white;">
+<div align="center" style="padding: 36px; border-radius: 18px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364); color: white;">
 
-  <h1 style="font-size: 36px; margin-bottom: 6px;">
-    Hi 👋, I'm Shenal Achintha
+  <h1 style="
+    font-size: 42px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg,#38BDF8,#A78BFA,#F472B6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+   Hi👋 I'am Shenal Achintha
   </h1>
 
-  <h3 style="font-weight: 400; opacity: 0.9;">
+  <h3 style="font-weight: 400; opacity: 0.95;">
     Computer Science Student | Aspiring Software Engineer
   </h3>
 
-  <p style="max-width: 650px; margin-top: 15px; line-height: 1.6;">
+  <p style="max-width: 680px; margin-top: 18px; line-height: 1.8; font-size: 15px;">
     Motivated computer science undergraduate passionate about full-stack web development.
     Actively seeking <b>software engineering internships</b> to gain real-world experience
     and contribute to impactful projects.
@@ -31,7 +40,7 @@
 <br/>
 
 <!-- ===================== QUICK INFO ===================== -->
-<div style="padding: 22px; background-color: #f8f9fa; border-left: 4px solid #2c5364; border-radius: 10px;">
+<div style="padding: 22px; background-color: #f8f9fa; border-left: 5px solid #38BDF8; border-radius: 12px;">
 
 <ul style="list-style: none; padding-left: 0; line-height: 1.9;">
   <li>🎓 <b>Field:</b> Computer Science</li>
@@ -51,7 +60,7 @@
 <!-- ===================== TECH STACK ===================== -->
 <h3>🧰 Tech Stack</h3>
 
-<div align="center" style="padding: 20px; background-color: #f4f6f8; border-radius: 12px;">
+<div align="center" style="padding: 22px; background-color: #f4f6f8; border-radius: 14px;">
 
 <h4>Frontend</h4>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
@@ -83,9 +92,7 @@
 <!-- ===================== OPPORTUNITIES ===================== -->
 <h3>🚀 Looking for Internship Opportunities</h3>
 
-<div style="padding: 20px; background-color: #f4f6f8; border-radius: 10px; border-left: 4px solid #38BDF8;">
-
-<p>I am actively seeking:</p>
+<div style="padding: 20px; background-color: #f4f6f8; border-radius: 12px; border-left: 5px solid #22C55E;">
 
 <ul>
   <li>🎓 Software Engineering Internships</li>
@@ -117,7 +124,6 @@ If you are hiring interns or junior developers, I would love to connect.
 ---
 
 <!-- ===================== FOOTER ===================== -->
-<div align="center" style="margin-top: 30px; opacity: 0.7;">
+<div align="center" style="margin-top: 30px; opacity: 0.8;">
   <i>Open to learning • Ready to work • Actively seeking internships 🚀</i>
 </div>
-
